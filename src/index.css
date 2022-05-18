@@ -1,0 +1,58 @@
+.screenDiv{
+    justify-content: center;
+    text-align: center;
+    margin: auto;
+    text-decoration: none;
+    color: black;
+}
+
+h1{
+    font-size: 55px;
+    margin-bottom: -15px;
+}
+
+.enterButton{
+    background-color: #4CAF50;
+    border: none;
+    border-radius: 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    padding: 5px 10px;
+    margin: 5px;
+}
+
+.resetButton{
+    background-color: #4CAF50;
+    border: none;
+    border-radius: 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    padding: 5px 10px;
+    margin: 5px;
+}
+
+.userInput{
+    background-color: white;
+    border: solid 2px;
+    border-color: #4CAF50;
+    border-radius: 5px;
+    text-align: left;
+    text-decoration: none;
+    display: inline-block;
+    padding: 3px 10px;
+}
+
+.givenInputText{
+    margin-top: 30px;
+    margin-bottom: 5px;    
+}
+
+.colorCanvas{
+    text-align: center;
+    background-color: white;
+    border: solid 2px;
+    border-radius: 15px;
+    margin-top: 3px;
+}
